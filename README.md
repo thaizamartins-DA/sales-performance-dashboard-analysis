@@ -1,2 +1,37 @@
-# sales-performance-dashboard-analysis
-Sales data analysis project with data cleaning, dashboard creation and ABC analysis using Google Sheets.
+# Sales Performance Dashboard & Data Analysis (Google Sheets)
+
+## 📊 Project Overview
+This project focuses on data cleaning, analysis, and visualization of sales data using Google Sheets, with the objective of generating business insights to support decision-making.
+
+## 🧹 Data Cleaning & Quality
+During data preparation, inconsistencies were identified in date fields, where some records presented shipping dates earlier than order dates.
+
+These records were removed from time-based analyses to ensure more reliable and accurate performance indicators.
+
+## 📈 Dashboard & Analysis
+A complete dashboard was developed including:
+
+- Sales KPIs (Revenue, Orders, Performance)
+- Sales by Country and Region
+- Sales by Category
+- Sales by Year and Day of Week
+- Channel performance (Online vs Offline)
+
+## 🔍 Key Insights
+- Europe concentrates the majority of the company’s revenue  
+- Online and offline channels show similar performance  
+- Sales peaks occur on specific days of the week, especially Saturdays  
+- Revenue is highly concentrated in a small group of countries (Top 10)
+
+These findings highlight strong geographic concentration and clear customer behavior patterns.
+
+## 📊 ABC Analysis (Pareto)
+An ABC analysis was applied based on revenue from the last year to identify the most impactful product categories.
+
+- Class A: High revenue concentration → priority for business strategy  
+- Class B: Growth opportunities  
+- Class C: Requires evaluation (profitability, cost, repositioning)
+
+## 🔗 Project Link
+[View the Dashboard on Google Sheets]
+(https://docs.google.com/spreadsheets/d/1RyiSw3vC0_CHdzzODNveDoyND56ROow2bXrto60wdZg/edit?usp=sharing)
