@@ -17,8 +17,9 @@ A complete dashboard was developed including:
 - Sales by Year and Day of Week
 - Channel performance (Online vs Offline)
 
-## 📊 Dashboard Preview 
-![Dashboard](dashboard_previw.png) 
+## 📊 Dashboard Preview
+
+![Dashboard](Dashboard_preview.png)
 
 ## 🔍 Key Insights
 - Europe concentrates the majority of the company’s revenue  
