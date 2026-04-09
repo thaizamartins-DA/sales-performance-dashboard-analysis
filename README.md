@@ -1,4 +1,4 @@
-# Sales Performance Dashboard & Data Analysis (Google Sheets)
+# Sales Data Analysis & Dashboard (Google Sheets)
 
 ## 📊 Project Overview
 This project focuses on data cleaning, analysis, and visualization of sales data using Google Sheets, with the objective of generating business insights to support decision-making.
@@ -35,6 +35,9 @@ An ABC analysis was applied based on revenue from the last year to identify the 
 - Class A: High revenue concentration → priority for business strategy  
 - Class B: Growth opportunities  
 - Class C: Requires evaluation (profitability, cost, repositioning)
+
+## 💡 Business Impact
+The analysis provides insights to support strategic decisions related to market focus, product prioritization, and sales performance optimization.
 
 ## 🔗 Project Link
 [View the Dashboard on Google Sheets]
