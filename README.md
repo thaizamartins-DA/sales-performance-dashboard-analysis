@@ -18,7 +18,6 @@ A complete dashboard was developed including:
 - Channel performance (Online vs Offline)
 
 ## 📊 Dashboard Preview
-
 ![Dashboard](Dashboard_preview.png)
 
 ## 🔍 Key Insights
