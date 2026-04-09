@@ -17,6 +17,9 @@ A complete dashboard was developed including:
 - Sales by Year and Day of Week
 - Channel performance (Online vs Offline)
 
+## 📊 Dashboard Preview 
+![Dashboard](dashboard_previw.png) 
+
 ## 🔍 Key Insights
 - Europe concentrates the majority of the company’s revenue  
 - Online and offline channels show similar performance  
@@ -35,3 +38,4 @@ An ABC analysis was applied based on revenue from the last year to identify the 
 ## 🔗 Project Link
 [View the Dashboard on Google Sheets]
 (https://docs.google.com/spreadsheets/d/1RyiSw3vC0_CHdzzODNveDoyND56ROow2bXrto60wdZg/edit?usp=sharing)
+
