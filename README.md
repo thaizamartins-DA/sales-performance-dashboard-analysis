@@ -39,6 +39,5 @@ An ABC analysis was applied based on revenue from the last year to identify the 
 The analysis supports data-driven decision-making by identifying key revenue drivers, high-performing markets, and product priorities, enabling more efficient commercial and strategic planning.
 
 ## 🔗 Project Link
-[View the Dashboard on Google Sheets]
-(https://docs.google.com/spreadsheets/d/1RyiSw3vC0_CHdzzODNveDoyND56ROow2bXrto60wdZg/edit?usp=sharing)
+[View the Dashboard on Google Sheets](https://docs.google.com/spreadsheets/d/1RyiSw3vC0_CHdzzODNveDoyND56ROow2bXrto60wdZg/edit?usp=sharing)
 
