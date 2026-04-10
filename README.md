@@ -1,7 +1,8 @@
 # Sales Data Analysis & Dashboard (Google Sheets)
 
 ## 📊 Project Overview
-This project analyzes sales performance data to identify trends, optimize decision-making, and generate actionable business insights.
+This project focuses on sales data analysis using Google Sheets, including data cleaning, KPI definition, and dashboard development.
+The goal is to identify performance patterns, revenue distribution, and key business insights.
 
 ## 🧹 Data Cleaning & Quality
 During data preparation, inconsistencies were identified in date fields, where some records presented shipping dates earlier than order dates.
@@ -36,7 +37,7 @@ An ABC analysis was applied based on revenue from the last year to identify the 
 - Class C: Requires evaluation (profitability, cost, repositioning)
 
 ## 💡 Business Impact
-The analysis supports data-driven decision-making by identifying key revenue drivers, high-performing markets, and product priorities, enabling more efficient commercial and strategic planning.
+The analysis supports strategic decision-making by identifying key markets, sales trends, and product performance.
 
 ## 🔗 Project Link
 - [View the Dashboard on Google Sheets](https://docs.google.com/spreadsheets/d/1RyiSw3vC0_CHdzzODNveDoyND56ROow2bXrto60wdZg/edit?usp=sharing)
